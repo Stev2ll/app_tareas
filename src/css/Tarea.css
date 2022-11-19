@@ -13,13 +13,13 @@
 }
 /*COLORES*/
 .tarea-contenedor:nth-child(3n + 1){
-    background-color: #1b1b32;
+    background-color: #464db0;
 }
 .tarea-contenedor:nth-child(3n + 2){
-    background-color: #242440be;
+    background-color: #3e4497d8;
 }
 .tarea-contenedor:nth-child(3n + 3){
-    background-color: #3b3b4f;
+    background-color: rgba(68, 74, 158, 0.801)
 }
 /*TEXTO*/
 .tarea-texto{
@@ -39,6 +39,6 @@
 /*TAREA COMPLETADA*/
 
 .tarea-contenedor.completada{
-    background-color: blueviolet;
+    background-color: #d71400;
     text-decoration: line-through;
 }

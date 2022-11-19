@@ -26,7 +26,8 @@
     border-radius:  0 4px 4px 0;
     cursor: pointer;
     outline: none;
-    background: #00471b;
+    background: #d4b830;
     color: white;
+    font-weight: bold;
     text-transform: capitalize;
 }
