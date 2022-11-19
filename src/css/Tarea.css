@@ -19,8 +19,12 @@
     background-color: #3e4497d8;
 }
 .tarea-contenedor:nth-child(3n + 3){
-    background-color: rgba(68, 74, 158, 0.801)
+    background-color: rgba(68, 74, 158, 0.514)
 }
+.tarea-contenedor:nth-child(3n + 4){
+    background-color: rgba(68, 74, 158, 0.397)
+}
+
 /*TEXTO*/
 .tarea-texto{
     width: 100%;

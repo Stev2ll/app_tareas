@@ -10,18 +10,19 @@ html, body{
   width: 100%;
   height: 100vh;
   padding-top: 10px;
-  background:linear-gradient(rgba(0, 0, 0, 0.24),  rgba(0, 0, 0, 0.836)),
-  url(https://source.unsplash.com/fJXv46LT7Xk);
+  background: linear-gradient(rgba(0, 0, 0, 0.24), rgba(0, 0, 0, 0.212)),
+  url("./imagenes/andyone--WW8jBak7bo-unsplash.jpg");
+  background-size: cover;
   background-position-x: center;
   background-position-y: center;
-  background-size: cover;
+
 }
 ::-webkit-scrollbar{
-	background-color: rgba(255, 255, 255, 0);
+	background-color: #73686e;
   width: 13px;
 }
 ::-webkit-scrollbar-thumb{
-  background-color: rgba(0, 0, 0, 0.836);
+  background-color:#302a2e;
   border-radius: 5px;
 }
 
@@ -53,9 +54,8 @@ html, body{
 
 /*MI LOGO*/
 .Mi-logo{
-  width: 10%;
+  width: 7%;
 }
-
 
 /*Lista de Tareas*/
 .tareas-lista{
